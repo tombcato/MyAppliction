@@ -1,0 +1,26 @@
+<resources>
+
+
+        <!--<style name="AppTheme.Base" parent="Theme.AppCompat">-->
+            <!--<item name="windowActionBar">false</item>-->
+            <!--<item name="android:windowNoTitle">true</item>-->
+        <!--</style>-->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+        <!--&lt;!&ndash;状态栏颜色&ndash;&gt;-->
+        <!--<item name="colorPrimaryDark">@color/Indigo_colorPrimaryDark</item>-->
+        <!--&lt;!&ndash;Toolbar颜色&ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/Indigo_colorPrimary</item>-->
+        <!--&lt;!&ndash;返回键样式&ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/AppTheme.DrawerArrowToggle</item>-->
+
+        <!--<item name="actionBarSize">@dimen/actionBarSize</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle">-->
+        <!--<item name="color">@android:color/white</item>-->
+    <!--</style>-->
+
+</resources>
